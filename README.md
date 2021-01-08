@@ -14,7 +14,6 @@
 
 * View dinamic table in gcolab, handle JSON file into a dataframe, panda-cheat-sheet and plotly-cheat-code.
 
-* Dash-bio: including AlignmentViewer(fasta), Circos (genes relation, json) and OncoPrint (visualize multiple genomic alternations with an interactive heatmap, json)
 
 * Anaconda cheat sheet
 
